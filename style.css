@@ -1,6 +1,8 @@
 /*mobile first*/
 /* set title font to 52 px for mobile */
-
+body {
+    margin: 0;
+}
 header h1 {
     font-size: 52px;
     color: #fff;
